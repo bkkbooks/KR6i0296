@@ -1,0 +1,110 @@
+canonical_identifier: bkk:krp/KR6i0296/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0296/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 寶雲經
+  identifiers:
+    krp: KR6i0296
+    cbeta: T16n0658
+    cbeta_old_id: T16n0658
+    authorityid: CA0000271
+    json_key: T0658
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0658.xml
+    old_id: T16n0658
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0296_000-T.yaml, hash: 'sha256:9b23ad2d45dc312eca59fda5c63fa790b7b0c44eb6573c8ce9be73e089d4ddc3'}
+  - {seq: 1, filename: KR6i0296_001-T.yaml, hash: 'sha256:d3a24803996ef124f9eebdda18935dbf105be5db972ad65304fe831f73902460'}
+  - {seq: 2, filename: KR6i0296_002-T.yaml, hash: 'sha256:e981887389d454a230db5ba214144bd1419874534c641fad9694e2b59dca7f18'}
+  - {seq: 3, filename: KR6i0296_003-T.yaml, hash: 'sha256:e8662b97543e06002d0daf715f65483afabe49c9e275cea89f35bd52f7cf6daf'}
+  - {seq: 4, filename: KR6i0296_004-T.yaml, hash: 'sha256:81739d6e4d0362539a2175ca4f5c512c98e25998407063cf5ca61eb0ff1ff2f3'}
+  - {seq: 5, filename: KR6i0296_005-T.yaml, hash: 'sha256:47aa016b8be9e5b72e1267a93ca00bb92fc6d6ae4ca0dbe1b986bcfc2dec0ea1'}
+  - {seq: 6, filename: KR6i0296_006-T.yaml, hash: 'sha256:5f62b225fb548e5db0dce09daac79e5791f199d58f76e5076428cb3b98ad6fea'}
+  - {seq: 7, filename: KR6i0296_007-T.yaml, hash: 'sha256:15b451eab2de404e4ad259d7acf3e543f7ee1e3fb38ad50ad86733c5de347875'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0296_000-T.markers.yaml, hash: 'sha256:df3d78e5a23c17d7eb7e460866d80d7d43d75171ce9c3ec4265a558afea22c70'}
+  - {seq: 1, role: markers, filename: assets/KR6i0296_001-T.markers.yaml, hash: 'sha256:dd1ad0606ab0e068384d74798d97e5ea88aa3860dcda0971bc43c74708a8b459'}
+  - {seq: 2, role: markers, filename: assets/KR6i0296_002-T.markers.yaml, hash: 'sha256:eacc55a000553966f220803a9fec1adde4465369f88c6ad9fb1ff05a23d8379a'}
+  - {seq: 3, role: markers, filename: assets/KR6i0296_003-T.markers.yaml, hash: 'sha256:fb468b7ba51080060479e7396b532a5c3a43313a1bdbf7db1dbddee1de2a6d77'}
+  - {seq: 4, role: markers, filename: assets/KR6i0296_004-T.markers.yaml, hash: 'sha256:ad7f64181d779fae9134c00146617073403543902427b7c5dbfe1182bdde762c'}
+  - {seq: 5, role: markers, filename: assets/KR6i0296_005-T.markers.yaml, hash: 'sha256:37bace5d7f0735704be5f7c8bff80d13bc9d8b820818cae774b3d81fa6e7b9bc'}
+  - {seq: 6, role: markers, filename: assets/KR6i0296_006-T.markers.yaml, hash: 'sha256:47e76efe75ab9ae9a6b3e09b8f6daeff99edeb940a0de070bf0d6e6078b29a4c'}
+  - {seq: 7, role: markers, filename: assets/KR6i0296_007-T.markers.yaml, hash: 'sha256:12a191bb9b035d418bbbd580bcae756a9038554462eb442b30ab54b356dd3dd2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0296_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8651
+  label: 寶雲經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0296_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9538
+  label: 寶雲經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0296_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 9456
+  label: 寶雲經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0296_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 4049
+  label: 寶雲經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0296_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 4813
+  label: 寶雲經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0296_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 3435
+  label: 寶雲經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0296_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 5291
+  label: 寶雲經卷第七
+  type: juan
+  level: 1
+hash: sha256:3b1f43743cf765cdd571105ec58994d503f4c33e8f92e15d57ed995f4e10075c

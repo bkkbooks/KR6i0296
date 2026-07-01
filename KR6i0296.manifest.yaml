@@ -1,0 +1,126 @@
+canonical_identifier: bkk:krp/KR6i0296/v1
+canonical_location: https://kanripo.org/bkk/KR6i0296/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 寶雲經
+  identifiers:
+    alt_id:
+    - T16n0658
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0658.xml
+    old_id: T16n0658
+  edition:
+    short: bkk
+editions:
+- short: 元
+  label: 元
+  source_xml_id: wit1
+- short: 明
+  label: 明
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit4
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0296_000.yaml, hash: 'sha256:9b23ad2d45dc312eca59fda5c63fa790b7b0c44eb6573c8ce9be73e089d4ddc3'}
+  - {seq: 1, filename: KR6i0296_001.yaml, hash: 'sha256:efd73a6ff0a9ddab81c561a08ae63b3ab3a1124a6758549f6570547cc1e23ed2'}
+  - {seq: 2, filename: KR6i0296_002.yaml, hash: 'sha256:46c36a584a87ea3386d2f18683afd196bcca00f63278dde53ede93671e0b344a'}
+  - {seq: 3, filename: KR6i0296_003.yaml, hash: 'sha256:3bf4c2b9b3d5c81ee3890ea616f0fb23f2a97b41ec5699c6afdd95d701483f79'}
+  - {seq: 4, filename: KR6i0296_004.yaml, hash: 'sha256:8779a39af230ebc278ff86babc8473348535374f3a6adecfac1c87cf0c83a271'}
+  - {seq: 5, filename: KR6i0296_005.yaml, hash: 'sha256:58d579de1b70137d39480c8141d1c530f110707adce879e345f0f7919b291ef9'}
+  - {seq: 6, filename: KR6i0296_006.yaml, hash: 'sha256:5f169375a85b90a63414ab273595d00d6c929d9d6426615a5b582a9920db2a47'}
+  - {seq: 7, filename: KR6i0296_007.yaml, hash: 'sha256:1d8cf4e4b00c05b96006967c987de86c9ed93c32785ab2618660508e23bdb07e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0296_001.markers.yaml, hash: 'sha256:9181b5e0c58c258d14c73797abf263be69f3aa56e867dffc9d7bc5160cf53b27'}
+  - {seq: 2, role: markers, filename: assets/KR6i0296_002.markers.yaml, hash: 'sha256:885b6afb3fc393b170542fd197e49408ea81c90873d2b0b11dd4311f56fce698'}
+  - {seq: 3, role: markers, filename: assets/KR6i0296_003.markers.yaml, hash: 'sha256:a03d757abaeec642afcd8a152ce6db8b86b9c45062083d08c2110f9d01ee48ba'}
+  - {seq: 4, role: markers, filename: assets/KR6i0296_004.markers.yaml, hash: 'sha256:cc5bd6fdf3c6867ddbdfdbe5a5c7affc322ed41b128d4fc5fee70532b94c89db'}
+  - {seq: 5, role: markers, filename: assets/KR6i0296_005.markers.yaml, hash: 'sha256:0ebbbf245fcbcf2304269585a2c2708da09439ad7b74aabda0bd6ded9b3c3bae'}
+  - {seq: 6, role: markers, filename: assets/KR6i0296_006.markers.yaml, hash: 'sha256:6ddea8db1be68c98988db62acd7f1201058eca253dac722f61fff5909c787cb0'}
+  - {seq: 7, role: markers, filename: assets/KR6i0296_007.markers.yaml, hash: 'sha256:a16a22fa008d15aa182223fcd908a18a6b0888d6fd7659829f377e9dcd1a6631'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0296_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8651
+  label: 寶雲經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0296_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9538
+  label: 寶雲經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0296_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 9456
+  label: 寶雲經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0296_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 4049
+  label: 寶雲經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0296_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 4813
+  label: 寶雲經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0296_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 3435
+  label: 寶雲經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0296_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 5291
+  label: 寶雲經卷第七
+  type: juan
+  level: 1
+hash: sha256:3b9b71feb378583b8bd68a3a51ae9b27f7b972b4470282ebe9b09307e1760dbc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
